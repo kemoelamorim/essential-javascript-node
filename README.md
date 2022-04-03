@@ -1,2 +1,2 @@
 # essential-javascript-node
-Conceitos e fundamentos do javascript
+Primeiros passo na linguagem 
